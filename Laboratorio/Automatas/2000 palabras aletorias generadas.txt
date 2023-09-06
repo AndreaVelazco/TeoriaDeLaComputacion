@@ -1,0 +1,2001 @@
+[?2004l
+>> 1 -> Aceptado
+>> 2001222 -> No Aceptado
+>> 2012 -> No Aceptado
+>> 02200001 -> Aceptado
+>> 101202 -> No Aceptado
+>> 1121 -> Aceptado
+>> 21211 -> Aceptado
+>> 201 -> Aceptado
+>> 21001 -> Aceptado
+>> 0201012122 -> No Aceptado
+>> 022010100 -> No Aceptado
+>> 22220 -> No Aceptado
+>> 10 -> No Aceptado
+>> 0000 -> No Aceptado
+>> 221210001 -> Aceptado
+>> 102021212 -> No Aceptado
+>> 1211102020 -> No Aceptado
+>> 1022 -> No Aceptado
+>> 101120 -> No Aceptado
+>> 21 -> Aceptado
+>> 2122 -> No Aceptado
+>> 2122001110 -> No Aceptado
+>> 101 -> Aceptado
+>> 1 -> Aceptado
+>> 2012111 -> Aceptado
+>> 010100212 -> No Aceptado
+>> 0001220022 -> No Aceptado
+>> 100011021 -> Aceptado
+>> 0100022 -> No Aceptado
+>> 2222 -> No Aceptado
+>> 200 -> No Aceptado
+>> 12002 -> No Aceptado
+>> 0 -> No Aceptado
+>> 11201 -> Aceptado
+>> 0200021 -> Aceptado
+>> 101112 -> No Aceptado
+>> 120100 -> No Aceptado
+>> 121 -> Aceptado
+>> 111 -> Aceptado
+>> 010 -> No Aceptado
+>> 200 -> No Aceptado
+>> 1 -> Aceptado
+>> 01 -> Aceptado
+>> 021020110 -> No Aceptado
+>> 220100 -> No Aceptado
+>> 1011120020 -> No Aceptado
+>> 0101122 -> No Aceptado
+>> 112120 -> No Aceptado
+>> 1222 -> No Aceptado
+>> 100001002 -> No Aceptado
+>> 2 -> No Aceptado
+>> 100111020 -> No Aceptado
+>> 0111022 -> No Aceptado
+>> 0110 -> No Aceptado
+>> 0020110021 -> Aceptado
+>> 2 -> No Aceptado
+>> 111011022 -> No Aceptado
+>> 0012 -> No Aceptado
+>> 202012 -> No Aceptado
+>> 01211 -> Aceptado
+>> 22120 -> No Aceptado
+>> 0011 -> Aceptado
+>> 11221 -> Aceptado
+>> 1100122 -> No Aceptado
+>> 1 -> Aceptado
+>> 00 -> No Aceptado
+>> 00100122 -> No Aceptado
+>> 1202 -> No Aceptado
+>> 02112 -> No Aceptado
+>> 2010022 -> No Aceptado
+>> 10 -> No Aceptado
+>> 102120201 -> Aceptado
+>> 022002 -> No Aceptado
+>> 011 -> Aceptado
+>> 0111010 -> No Aceptado
+>> 1202 -> No Aceptado
+>> 000200210 -> No Aceptado
+>> 2112022212 -> No Aceptado
+>> 2112 -> No Aceptado
+>> 101010121 -> Aceptado
+>> 100101010 -> No Aceptado
+>> 10222122 -> No Aceptado
+>> 111011221 -> Aceptado
+>> 022000220 -> No Aceptado
+>> 20110 -> No Aceptado
+>> 0101001 -> Aceptado
+>> 11201121 -> Aceptado
+>> 12021 -> Aceptado
+>> 2222121 -> Aceptado
+>> 2021 -> Aceptado
+>> 0 -> No Aceptado
+>> 0 -> No Aceptado
+>> 01121 -> Aceptado
+>> 11211 -> Aceptado
+>> 0 -> No Aceptado
+>> 02200 -> No Aceptado
+>> 02 -> No Aceptado
+>> 1100 -> No Aceptado
+>> 1111 -> Aceptado
+>> 102002 -> No Aceptado
+>> 010 -> No Aceptado
+>> 021221212 -> No Aceptado
+>> 2121111 -> Aceptado
+>> 1100000202 -> No Aceptado
+>> 022 -> No Aceptado
+>> 22210 -> No Aceptado
+>> 12 -> No Aceptado
+>> 00112 -> No Aceptado
+>> 211012 -> No Aceptado
+>> 101020222 -> No Aceptado
+>> 2121201 -> Aceptado
+>> 11210 -> No Aceptado
+>> 112121010 -> No Aceptado
+>> 110 -> No Aceptado
+>> 2221 -> Aceptado
+>> 01 -> Aceptado
+>> 00120 -> No Aceptado
+>> 122211010 -> No Aceptado
+>> 00012 -> No Aceptado
+>> 2 -> No Aceptado
+>> 10 -> No Aceptado
+>> 2 -> No Aceptado
+>> 1110 -> No Aceptado
+>> 1 -> Aceptado
+>> 20001 -> Aceptado
+>> 202012212 -> No Aceptado
+>> 11120020 -> No Aceptado
+>> 000221 -> Aceptado
+>> 10220121 -> Aceptado
+>> 2221002220 -> No Aceptado
+>> 0120011 -> Aceptado
+>> 00012 -> No Aceptado
+>> 200222221 -> Aceptado
+>> 1 -> Aceptado
+>> 22221102 -> No Aceptado
+>> 20 -> No Aceptado
+>> 1221110011 -> Aceptado
+>> 120022002 -> No Aceptado
+>> 121 -> Aceptado
+>> 101000 -> No Aceptado
+>> 001201011 -> Aceptado
+>> 1200 -> No Aceptado
+>> 11210020 -> No Aceptado
+>> 11 -> Aceptado
+>> 1220220 -> No Aceptado
+>> 20021 -> Aceptado
+>> 02122 -> No Aceptado
+>> 1200111 -> Aceptado
+>> 22212 -> No Aceptado
+>> 02212001 -> Aceptado
+>> 212200 -> No Aceptado
+>> 222 -> No Aceptado
+>> 21200102 -> No Aceptado
+>> 022211002 -> No Aceptado
+>> 122000 -> No Aceptado
+>> 01022 -> No Aceptado
+>> 11 -> Aceptado
+>> 0210 -> No Aceptado
+>> 110 -> No Aceptado
+>> 0112102 -> No Aceptado
+>> 02 -> No Aceptado
+>> 0 -> No Aceptado
+>> 1101222211 -> Aceptado
+>> 1101 -> Aceptado
+>> 00011210 -> No Aceptado
+>> 1111 -> Aceptado
+>> 21201010 -> No Aceptado
+>> 20012020 -> No Aceptado
+>> 1012202 -> No Aceptado
+>> 0 -> No Aceptado
+>> 01112012 -> No Aceptado
+>> 2 -> No Aceptado
+>> 211111020 -> No Aceptado
+>> 001 -> Aceptado
+>> 121200 -> No Aceptado
+>> 1102022 -> No Aceptado
+>> 0002 -> No Aceptado
+>> 221011 -> Aceptado
+>> 1002 -> No Aceptado
+>> 1 -> Aceptado
+>> 1210211 -> Aceptado
+>> 000101112 -> No Aceptado
+>> 02222 -> No Aceptado
+>> 121212022 -> No Aceptado
+>> 2221202 -> No Aceptado
+>> 00 -> No Aceptado
+>> 1 -> Aceptado
+>> 0210210120 -> No Aceptado
+>> 011 -> Aceptado
+>> 22 -> No Aceptado
+>> 100001101 -> Aceptado
+>> 2011111 -> Aceptado
+>> 1100010210 -> No Aceptado
+>> 021112 -> No Aceptado
+>> 01120111 -> Aceptado
+>> 0220 -> No Aceptado
+>> 021112101 -> Aceptado
+>> 2 -> No Aceptado
+>> 0120 -> No Aceptado
+>> 2202012 -> No Aceptado
+>> 21210 -> No Aceptado
+>> 01120 -> No Aceptado
+>> 01 -> Aceptado
+>> 2212222010 -> No Aceptado
+>> 01102 -> No Aceptado
+>> 2020 -> No Aceptado
+>> 0112102 -> No Aceptado
+>> 022022 -> No Aceptado
+>> 22111 -> Aceptado
+>> 2 -> No Aceptado
+>> 01 -> Aceptado
+>> 2122022 -> No Aceptado
+>> 101100200 -> No Aceptado
+>> 121210002 -> No Aceptado
+>> 22 -> No Aceptado
+>> 220022101 -> Aceptado
+>> 120111 -> Aceptado
+>> 0 -> No Aceptado
+>> 20112121 -> Aceptado
+>> 112020 -> No Aceptado
+>> 11221020 -> No Aceptado
+>> 1100212211 -> Aceptado
+>> 2212102 -> No Aceptado
+>> 022221 -> Aceptado
+>> 020112 -> No Aceptado
+>> 222202 -> No Aceptado
+>> 0222200 -> No Aceptado
+>> 212002 -> No Aceptado
+>> 2100210010 -> No Aceptado
+>> 002 -> No Aceptado
+>> 2102 -> No Aceptado
+>> 1201221 -> Aceptado
+>> 020 -> No Aceptado
+>> 000211011 -> Aceptado
+>> 01101 -> Aceptado
+>> 0001 -> Aceptado
+>> 12110121 -> Aceptado
+>> 122210 -> No Aceptado
+>> 211 -> Aceptado
+>> 12210 -> No Aceptado
+>> 02202 -> No Aceptado
+>> 11222 -> No Aceptado
+>> 0002 -> No Aceptado
+>> 2002 -> No Aceptado
+>> 2122111 -> Aceptado
+>> 200 -> No Aceptado
+>> 00 -> No Aceptado
+>> 010222 -> No Aceptado
+>> 0122220221 -> Aceptado
+>> 110011 -> Aceptado
+>> 111022 -> No Aceptado
+>> 111000 -> No Aceptado
+>> 111122 -> No Aceptado
+>> 22101020 -> No Aceptado
+>> 21 -> Aceptado
+>> 0120002 -> No Aceptado
+>> 100001 -> Aceptado
+>> 0012011020 -> No Aceptado
+>> 0 -> No Aceptado
+>> 1212 -> No Aceptado
+>> 0202 -> No Aceptado
+>> 11 -> Aceptado
+>> 2221 -> Aceptado
+>> 2010000021 -> Aceptado
+>> 20 -> No Aceptado
+>> 01 -> Aceptado
+>> 020220 -> No Aceptado
+>> 1 -> Aceptado
+>> 02 -> No Aceptado
+>> 0101211 -> Aceptado
+>> 012022 -> No Aceptado
+>> 001010 -> No Aceptado
+>> 10 -> No Aceptado
+>> 1 -> Aceptado
+>> 012211 -> Aceptado
+>> 10 -> No Aceptado
+>> 0002 -> No Aceptado
+>> 0 -> No Aceptado
+>> 00022111 -> Aceptado
+>> 220 -> No Aceptado
+>> 0001 -> Aceptado
+>> 120 -> No Aceptado
+>> 0200 -> No Aceptado
+>> 0 -> No Aceptado
+>> 0021010 -> No Aceptado
+>> 20121102 -> No Aceptado
+>> 1220102 -> No Aceptado
+>> 012022 -> No Aceptado
+>> 122112211 -> Aceptado
+>> 110 -> No Aceptado
+>> 100211 -> Aceptado
+>> 2222 -> No Aceptado
+>> 1112 -> No Aceptado
+>> 21 -> Aceptado
+>> 0100101 -> Aceptado
+>> 002102020 -> No Aceptado
+>> 100101010 -> No Aceptado
+>> 1001212 -> No Aceptado
+>> 111012012 -> No Aceptado
+>> 02201 -> Aceptado
+>> 110212 -> No Aceptado
+>> 0 -> No Aceptado
+>> 12 -> No Aceptado
+>> 012000201 -> Aceptado
+>> 2100220101 -> Aceptado
+>> 2020 -> No Aceptado
+>> 0210 -> No Aceptado
+>> 2 -> No Aceptado
+>> 0011 -> Aceptado
+>> 20 -> No Aceptado
+>> 0 -> No Aceptado
+>> 021 -> Aceptado
+>> 21022 -> No Aceptado
+>> 00 -> No Aceptado
+>> 21 -> Aceptado
+>> 111 -> Aceptado
+>> 220 -> No Aceptado
+>> 2002001 -> Aceptado
+>> 11 -> Aceptado
+>> 10000 -> No Aceptado
+>> 20 -> No Aceptado
+>> 21220011 -> Aceptado
+>> 11 -> Aceptado
+>> 110102 -> No Aceptado
+>> 101221 -> Aceptado
+>> 12102 -> No Aceptado
+>> 02011102 -> No Aceptado
+>> 2110121 -> Aceptado
+>> 101 -> Aceptado
+>> 212 -> No Aceptado
+>> 02020 -> No Aceptado
+>> 2111 -> Aceptado
+>> 011001221 -> Aceptado
+>> 1201021221 -> Aceptado
+>> 10 -> No Aceptado
+>> 12201110 -> No Aceptado
+>> 002120220 -> No Aceptado
+>> 022100102 -> No Aceptado
+>> 1202002 -> No Aceptado
+>> 101022201 -> Aceptado
+>> 10 -> No Aceptado
+>> 000 -> No Aceptado
+>> 2000 -> No Aceptado
+>> 1011 -> Aceptado
+>> 122220201 -> Aceptado
+>> 012 -> No Aceptado
+>> 220 -> No Aceptado
+>> 01 -> Aceptado
+>> 201022 -> No Aceptado
+>> 1 -> Aceptado
+>> 00 -> No Aceptado
+>> 011112122 -> No Aceptado
+>> 211111201 -> Aceptado
+>> 1012000121 -> Aceptado
+>> 12221 -> Aceptado
+>> 2 -> No Aceptado
+>> 2122 -> No Aceptado
+>> 10010 -> No Aceptado
+>> 0111 -> Aceptado
+>> 112221100 -> No Aceptado
+>> 21212212 -> No Aceptado
+>> 12 -> No Aceptado
+>> 01110 -> No Aceptado
+>> 02101012 -> No Aceptado
+>> 12 -> No Aceptado
+>> 00 -> No Aceptado
+>> 10 -> No Aceptado
+>> 00 -> No Aceptado
+>> 00221 -> Aceptado
+>> 0220 -> No Aceptado
+>> 2112111201 -> Aceptado
+>> 1001 -> Aceptado
+>> 01 -> Aceptado
+>> 0121 -> Aceptado
+>> 02 -> No Aceptado
+>> 1202010 -> No Aceptado
+>> 0 -> No Aceptado
+>> 102 -> No Aceptado
+>> 2 -> No Aceptado
+>> 222 -> No Aceptado
+>> 2100 -> No Aceptado
+>> 02000112 -> No Aceptado
+>> 112120110 -> No Aceptado
+>> 021201 -> Aceptado
+>> 2202 -> No Aceptado
+>> 12021122 -> No Aceptado
+>> 120 -> No Aceptado
+>> 2 -> No Aceptado
+>> 21121 -> Aceptado
+>> 02212110 -> No Aceptado
+>> 102 -> No Aceptado
+>> 212 -> No Aceptado
+>> 01021 -> Aceptado
+>> 02 -> No Aceptado
+>> 2111 -> Aceptado
+>> 2220221121 -> Aceptado
+>> 1211101000 -> No Aceptado
+>> 2011 -> Aceptado
+>> 0121020111 -> Aceptado
+>> 202021 -> Aceptado
+>> 20111101 -> Aceptado
+>> 200202020 -> No Aceptado
+>> 01002222 -> No Aceptado
+>> 02011 -> Aceptado
+>> 201010202 -> No Aceptado
+>> 100210 -> No Aceptado
+>> 0 -> No Aceptado
+>> 0210202222 -> No Aceptado
+>> 1 -> Aceptado
+>> 020 -> No Aceptado
+>> 200 -> No Aceptado
+>> 0200100 -> No Aceptado
+>> 0020010212 -> No Aceptado
+>> 20220022 -> No Aceptado
+>> 011 -> Aceptado
+>> 1201 -> Aceptado
+>> 1111012 -> No Aceptado
+>> 110010 -> No Aceptado
+>> 10211 -> Aceptado
+>> 00211 -> Aceptado
+>> 211110 -> No Aceptado
+>> 02102 -> No Aceptado
+>> 1210021 -> Aceptado
+>> 10001 -> Aceptado
+>> 12222012 -> No Aceptado
+>> 022 -> No Aceptado
+>> 11120 -> No Aceptado
+>> 00 -> No Aceptado
+>> 012102 -> No Aceptado
+>> 21110112 -> No Aceptado
+>> 1212201221 -> Aceptado
+>> 0000122212 -> No Aceptado
+>> 10120 -> No Aceptado
+>> 110202 -> No Aceptado
+>> 0010 -> No Aceptado
+>> 000000222 -> No Aceptado
+>> 0120 -> No Aceptado
+>> 011222 -> No Aceptado
+>> 100011112 -> No Aceptado
+>> 021121 -> Aceptado
+>> 111022 -> No Aceptado
+>> 2 -> No Aceptado
+>> 001012 -> No Aceptado
+>> 11 -> Aceptado
+>> 022001200 -> No Aceptado
+>> 111010200 -> No Aceptado
+>> 02 -> No Aceptado
+>> 02 -> No Aceptado
+>> 11 -> Aceptado
+>> 112 -> No Aceptado
+>> 0020 -> No Aceptado
+>> 102 -> No Aceptado
+>> 1201112202 -> No Aceptado
+>> 1201 -> Aceptado
+>> 011 -> Aceptado
+>> 2 -> No Aceptado
+>> 20022 -> No Aceptado
+>> 122 -> No Aceptado
+>> 10211 -> Aceptado
+>> 2210211 -> Aceptado
+>> 222022210 -> No Aceptado
+>> 0210222220 -> No Aceptado
+>> 10 -> No Aceptado
+>> 0211001212 -> No Aceptado
+>> 1020222011 -> Aceptado
+>> 0001 -> Aceptado
+>> 110 -> No Aceptado
+>> 0 -> No Aceptado
+>> 0 -> No Aceptado
+>> 101122 -> No Aceptado
+>> 10020020 -> No Aceptado
+>> 21010202 -> No Aceptado
+>> 0200112211 -> Aceptado
+>> 1011200011 -> Aceptado
+>> 220 -> No Aceptado
+>> 01201 -> Aceptado
+>> 0 -> No Aceptado
+>> 11020221 -> Aceptado
+>> 12220 -> No Aceptado
+>> 1201 -> Aceptado
+>> 01 -> Aceptado
+>> 101000020 -> No Aceptado
+>> 021 -> Aceptado
+>> 100020 -> No Aceptado
+>> 2211122 -> No Aceptado
+>> 2010 -> No Aceptado
+>> 212112 -> No Aceptado
+>> 2220212 -> No Aceptado
+>> 1221222 -> No Aceptado
+>> 22202211 -> Aceptado
+>> 21021112 -> No Aceptado
+>> 11010 -> No Aceptado
+>> 1 -> Aceptado
+>> 10120 -> No Aceptado
+>> 1011010 -> No Aceptado
+>> 01001 -> Aceptado
+>> 1 -> Aceptado
+>> 20202202 -> No Aceptado
+>> 20000 -> No Aceptado
+>> 110120 -> No Aceptado
+>> 001122 -> No Aceptado
+>> 2222110 -> No Aceptado
+>> 20011220 -> No Aceptado
+>> 02 -> No Aceptado
+>> 0002020 -> No Aceptado
+>> 0211 -> Aceptado
+>> 02011002 -> No Aceptado
+>> 010211 -> Aceptado
+>> 120012221 -> Aceptado
+>> 00222121 -> Aceptado
+>> 01010 -> No Aceptado
+>> 2212010 -> No Aceptado
+>> 0021220 -> No Aceptado
+>> 20211211 -> Aceptado
+>> 22220 -> No Aceptado
+>> 21221 -> Aceptado
+>> 100 -> No Aceptado
+>> 0200210021 -> Aceptado
+>> 10200 -> No Aceptado
+>> 21 -> Aceptado
+>> 210121 -> Aceptado
+>> 222101010 -> No Aceptado
+>> 0020002 -> No Aceptado
+>> 111212 -> No Aceptado
+>> 10000111 -> Aceptado
+>> 210121201 -> Aceptado
+>> 1200 -> No Aceptado
+>> 10202221 -> Aceptado
+>> 2011120202 -> No Aceptado
+>> 102 -> No Aceptado
+>> 112102011 -> Aceptado
+>> 22 -> No Aceptado
+>> 10020021 -> Aceptado
+>> 220020 -> No Aceptado
+>> 1221012022 -> No Aceptado
+>> 01001010 -> No Aceptado
+>> 102020 -> No Aceptado
+>> 121222001 -> Aceptado
+>> 1 -> Aceptado
+>> 010022201 -> Aceptado
+>> 1 -> Aceptado
+>> 1202200 -> No Aceptado
+>> 220021 -> Aceptado
+>> 021 -> Aceptado
+>> 202221202 -> No Aceptado
+>> 2 -> No Aceptado
+>> 2100211 -> Aceptado
+>> 121 -> Aceptado
+>> 1 -> Aceptado
+>> 221110 -> No Aceptado
+>> 2 -> No Aceptado
+>> 1102210210 -> No Aceptado
+>> 1100100111 -> Aceptado
+>> 12212121 -> Aceptado
+>> 212222201 -> Aceptado
+>> 111 -> Aceptado
+>> 21 -> Aceptado
+>> 220100211 -> Aceptado
+>> 1 -> Aceptado
+>> 10 -> No Aceptado
+>> 11 -> Aceptado
+>> 20021 -> Aceptado
+>> 201200 -> No Aceptado
+>> 1210 -> No Aceptado
+>> 1 -> Aceptado
+>> 0212012211 -> Aceptado
+>> 2111 -> Aceptado
+>> 01 -> Aceptado
+>> 0002 -> No Aceptado
+>> 222010011 -> Aceptado
+>> 11 -> Aceptado
+>> 211221 -> Aceptado
+>> 01102002 -> No Aceptado
+>> 0001101 -> Aceptado
+>> 2111 -> Aceptado
+>> 2220 -> No Aceptado
+>> 11200 -> No Aceptado
+>> 221112 -> No Aceptado
+>> 000212 -> No Aceptado
+>> 212001 -> Aceptado
+>> 2 -> No Aceptado
+>> 000 -> No Aceptado
+>> 210 -> No Aceptado
+>> 0 -> No Aceptado
+>> 2200212111 -> Aceptado
+>> 221200200 -> No Aceptado
+>> 10 -> No Aceptado
+>> 001 -> Aceptado
+>> 0 -> No Aceptado
+>> 2 -> No Aceptado
+>> 02 -> No Aceptado
+>> 221120 -> No Aceptado
+>> 211 -> Aceptado
+>> 02222 -> No Aceptado
+>> 2110011 -> Aceptado
+>> 002 -> No Aceptado
+>> 0012 -> No Aceptado
+>> 00 -> No Aceptado
+>> 2010220122 -> No Aceptado
+>> 120020122 -> No Aceptado
+>> 1222202211 -> Aceptado
+>> 2002002101 -> Aceptado
+>> 122120 -> No Aceptado
+>> 011 -> Aceptado
+>> 22 -> No Aceptado
+>> 102 -> No Aceptado
+>> 201 -> Aceptado
+>> 21211012 -> No Aceptado
+>> 2121 -> Aceptado
+>> 021022010 -> No Aceptado
+>> 1022 -> No Aceptado
+>> 12102210 -> No Aceptado
+>> 2111 -> Aceptado
+>> 1211220 -> No Aceptado
+>> 122222 -> No Aceptado
+>> 0102210 -> No Aceptado
+>> 10010 -> No Aceptado
+>> 2210001200 -> No Aceptado
+>> 2 -> No Aceptado
+>> 220 -> No Aceptado
+>> 21000001 -> Aceptado
+>> 220012 -> No Aceptado
+>> 1210221 -> Aceptado
+>> 220022120 -> No Aceptado
+>> 211101 -> Aceptado
+>> 22021 -> Aceptado
+>> 00100201 -> Aceptado
+>> 111000 -> No Aceptado
+>> 12 -> No Aceptado
+>> 1 -> Aceptado
+>> 1221 -> Aceptado
+>> 00221 -> Aceptado
+>> 21210 -> No Aceptado
+>> 22 -> No Aceptado
+>> 10012111 -> Aceptado
+>> 202 -> No Aceptado
+>> 1210 -> No Aceptado
+>> 21 -> Aceptado
+>> 0121 -> Aceptado
+>> 210 -> No Aceptado
+>> 2000220 -> No Aceptado
+>> 220 -> No Aceptado
+>> 212 -> No Aceptado
+>> 1201 -> Aceptado
+>> 202 -> No Aceptado
+>> 102201211 -> Aceptado
+>> 00010222 -> No Aceptado
+>> 1211201011 -> Aceptado
+>> 001 -> Aceptado
+>> 101 -> Aceptado
+>> 01 -> Aceptado
+>> 011100 -> No Aceptado
+>> 0 -> No Aceptado
+>> 201201011 -> Aceptado
+>> 2220 -> No Aceptado
+>> 1 -> Aceptado
+>> 11121 -> Aceptado
+>> 1222110 -> No Aceptado
+>> 1101101 -> Aceptado
+>> 020020 -> No Aceptado
+>> 0012222 -> No Aceptado
+>> 22001 -> Aceptado
+>> 2022212111 -> Aceptado
+>> 1 -> Aceptado
+>> 02020002 -> No Aceptado
+>> 1201212 -> No Aceptado
+>> 20 -> No Aceptado
+>> 22 -> No Aceptado
+>> 011000112 -> No Aceptado
+>> 100 -> No Aceptado
+>> 011200 -> No Aceptado
+>> 10011002 -> No Aceptado
+>> 21201112 -> No Aceptado
+>> 0120221 -> Aceptado
+>> 21012120 -> No Aceptado
+>> 11 -> Aceptado
+>> 12 -> No Aceptado
+>> 020 -> No Aceptado
+>> 021 -> Aceptado
+>> 01 -> Aceptado
+>> 011002 -> No Aceptado
+>> 120 -> No Aceptado
+>> 2121 -> Aceptado
+>> 2211 -> Aceptado
+>> 00 -> No Aceptado
+>> 0111111 -> Aceptado
+>> 2121 -> Aceptado
+>> 112211221 -> Aceptado
+>> 00 -> No Aceptado
+>> 021 -> Aceptado
+>> 222 -> No Aceptado
+>> 001110102 -> No Aceptado
+>> 210001 -> Aceptado
+>> 202100022 -> No Aceptado
+>> 1010111 -> Aceptado
+>> 2121 -> Aceptado
+>> 01202200 -> No Aceptado
+>> 0202201 -> Aceptado
+>> 02010121 -> Aceptado
+>> 0 -> No Aceptado
+>> 21 -> Aceptado
+>> 2100211 -> Aceptado
+>> 0201221020 -> No Aceptado
+>> 022120010 -> No Aceptado
+>> 22010 -> No Aceptado
+>> 0220120202 -> No Aceptado
+>> 22102100 -> No Aceptado
+>> 0011212 -> No Aceptado
+>> 2101 -> Aceptado
+>> 1101 -> Aceptado
+>> 012020 -> No Aceptado
+>> 0020122 -> No Aceptado
+>> 120111010 -> No Aceptado
+>> 001 -> Aceptado
+>> 2 -> No Aceptado
+>> 1202122 -> No Aceptado
+>> 10 -> No Aceptado
+>> 201200111 -> Aceptado
+>> 22121100 -> No Aceptado
+>> 1002 -> No Aceptado
+>> 120220 -> No Aceptado
+>> 01002111 -> Aceptado
+>> 1020 -> No Aceptado
+>> 20 -> No Aceptado
+>> 12201 -> Aceptado
+>> 0 -> No Aceptado
+>> 1022 -> No Aceptado
+>> 1221202 -> No Aceptado
+>> 00101 -> Aceptado
+>> 12020120 -> No Aceptado
+>> 0112021 -> Aceptado
+>> 1211100200 -> No Aceptado
+>> 121220 -> No Aceptado
+>> 011 -> Aceptado
+>> 20210 -> No Aceptado
+>> 200000 -> No Aceptado
+>> 0200211001 -> Aceptado
+>> 2 -> No Aceptado
+>> 20 -> No Aceptado
+>> 00101 -> Aceptado
+>> 20011202 -> No Aceptado
+>> 0212211201 -> Aceptado
+>> 22121201 -> Aceptado
+>> 01010 -> No Aceptado
+>> 00022 -> No Aceptado
+>> 20221022 -> No Aceptado
+>> 210002112 -> No Aceptado
+>> 21012 -> No Aceptado
+>> 100101120 -> No Aceptado
+>> 21010011 -> Aceptado
+>> 2210012202 -> No Aceptado
+>> 121222021 -> Aceptado
+>> 001210222 -> No Aceptado
+>> 2112202011 -> Aceptado
+>> 2110 -> No Aceptado
+>> 1011 -> Aceptado
+>> 12011001 -> Aceptado
+>> 1 -> Aceptado
+>> 2120102 -> No Aceptado
+>> 0001010001 -> Aceptado
+>> 02 -> No Aceptado
+>> 2011202 -> No Aceptado
+>> 1001211010 -> No Aceptado
+>> 0 -> No Aceptado
+>> 01020 -> No Aceptado
+>> 2220111121 -> Aceptado
+>> 1201002 -> No Aceptado
+>> 0210 -> No Aceptado
+>> 10 -> No Aceptado
+>> 10012122 -> No Aceptado
+>> 222212011 -> Aceptado
+>> 01001 -> Aceptado
+>> 221020120 -> No Aceptado
+>> 0221 -> Aceptado
+>> 20 -> No Aceptado
+>> 10 -> No Aceptado
+>> 1020022221 -> Aceptado
+>> 2 -> No Aceptado
+>> 1222212001 -> Aceptado
+>> 0 -> No Aceptado
+>> 22 -> No Aceptado
+>> 1 -> Aceptado
+>> 121121 -> Aceptado
+>> 11202 -> No Aceptado
+>> 101100 -> No Aceptado
+>> 22 -> No Aceptado
+>> 1100 -> No Aceptado
+>> 2222201020 -> No Aceptado
+>> 12020200 -> No Aceptado
+>> 210201 -> Aceptado
+>> 20001 -> Aceptado
+>> 1120222121 -> Aceptado
+>> 101220 -> No Aceptado
+>> 100102 -> No Aceptado
+>> 2200 -> No Aceptado
+>> 02100 -> No Aceptado
+>> 2012 -> No Aceptado
+>> 122 -> No Aceptado
+>> 0 -> No Aceptado
+>> 1 -> Aceptado
+>> 2 -> No Aceptado
+>> 2 -> No Aceptado
+>> 101 -> Aceptado
+>> 0222 -> No Aceptado
+>> 1 -> Aceptado
+>> 122212 -> No Aceptado
+>> 22 -> No Aceptado
+>> 1111212 -> No Aceptado
+>> 11 -> Aceptado
+>> 221221201 -> Aceptado
+>> 2210220110 -> No Aceptado
+>> 001 -> Aceptado
+>> 200111 -> Aceptado
+>> 210 -> No Aceptado
+>> 1222 -> No Aceptado
+>> 11221 -> Aceptado
+>> 1110 -> No Aceptado
+>> 111221022 -> No Aceptado
+>> 122201 -> Aceptado
+>> 21100 -> No Aceptado
+>> 12120 -> No Aceptado
+>> 2220 -> No Aceptado
+>> 1 -> Aceptado
+>> 1212200 -> No Aceptado
+>> 112112 -> No Aceptado
+>> 1201022 -> No Aceptado
+>> 21222011 -> Aceptado
+>> 212201 -> Aceptado
+>> 000022010 -> No Aceptado
+>> 122120212 -> No Aceptado
+>> 0020211111 -> Aceptado
+>> 11020 -> No Aceptado
+>> 1000 -> No Aceptado
+>> 2100112 -> No Aceptado
+>> 0220101100 -> No Aceptado
+>> 1102202222 -> No Aceptado
+>> 210 -> No Aceptado
+>> 0001212211 -> Aceptado
+>> 0202100012 -> No Aceptado
+>> 21 -> Aceptado
+>> 01 -> Aceptado
+>> 212 -> No Aceptado
+>> 112 -> No Aceptado
+>> 1 -> Aceptado
+>> 002020 -> No Aceptado
+>> 12002 -> No Aceptado
+>> 1201 -> Aceptado
+>> 10222 -> No Aceptado
+>> 02 -> No Aceptado
+>> 100011211 -> Aceptado
+>> 021201 -> Aceptado
+>> 22 -> No Aceptado
+>> 01002102 -> No Aceptado
+>> 0102 -> No Aceptado
+>> 1 -> Aceptado
+>> 11 -> Aceptado
+>> 10111 -> Aceptado
+>> 21020220 -> No Aceptado
+>> 120102 -> No Aceptado
+>> 20 -> No Aceptado
+>> 0221120 -> No Aceptado
+>> 0001221000 -> No Aceptado
+>> 010000010 -> No Aceptado
+>> 00220020 -> No Aceptado
+>> 100112 -> No Aceptado
+>> 01000 -> No Aceptado
+>> 1002 -> No Aceptado
+>> 0011 -> Aceptado
+>> 12120101 -> Aceptado
+>> 20 -> No Aceptado
+>> 212021 -> Aceptado
+>> 1221002202 -> No Aceptado
+>> 0212122021 -> Aceptado
+>> 02000202 -> No Aceptado
+>> 20012121 -> Aceptado
+>> 0011001 -> Aceptado
+>> 0122022020 -> No Aceptado
+>> 0220021 -> Aceptado
+>> 221201002 -> No Aceptado
+>> 001 -> Aceptado
+>> 2 -> No Aceptado
+>> 2200 -> No Aceptado
+>> 02120122 -> No Aceptado
+>> 12111100 -> No Aceptado
+>> 0010 -> No Aceptado
+>> 2001 -> Aceptado
+>> 020022 -> No Aceptado
+>> 11222020 -> No Aceptado
+>> 0 -> No Aceptado
+>> 211202 -> No Aceptado
+>> 0012021111 -> Aceptado
+>> 2211 -> Aceptado
+>> 12221212 -> No Aceptado
+>> 0 -> No Aceptado
+>> 112 -> No Aceptado
+>> 0222200201 -> Aceptado
+>> 101202 -> No Aceptado
+>> 11 -> Aceptado
+>> 2012 -> No Aceptado
+>> 102 -> No Aceptado
+>> 022000 -> No Aceptado
+>> 1 -> Aceptado
+>> 222220 -> No Aceptado
+>> 0212012 -> No Aceptado
+>> 012002111 -> Aceptado
+>> 1112011110 -> No Aceptado
+>> 11220 -> No Aceptado
+>> 0210 -> No Aceptado
+>> 10001 -> Aceptado
+>> 10 -> No Aceptado
+>> 001202221 -> Aceptado
+>> 01021012 -> No Aceptado
+>> 201120210 -> No Aceptado
+>> 12201212 -> No Aceptado
+>> 201122201 -> Aceptado
+>> 1221 -> Aceptado
+>> 0000122110 -> No Aceptado
+>> 10 -> No Aceptado
+>> 1011001 -> Aceptado
+>> 01022 -> No Aceptado
+>> 02212 -> No Aceptado
+>> 2202021 -> Aceptado
+>> 1211 -> Aceptado
+>> 1200122 -> No Aceptado
+>> 1 -> Aceptado
+>> 1 -> Aceptado
+>> 1111002011 -> Aceptado
+>> 1012111120 -> No Aceptado
+>> 02221000 -> No Aceptado
+>> 2 -> No Aceptado
+>> 21110021 -> Aceptado
+>> 2221021 -> Aceptado
+>> 1101021200 -> No Aceptado
+>> 02112 -> No Aceptado
+>> 10220220 -> No Aceptado
+>> 211220011 -> Aceptado
+>> 021012120 -> No Aceptado
+>> 01101200 -> No Aceptado
+>> 102 -> No Aceptado
+>> 2202 -> No Aceptado
+>> 11 -> Aceptado
+>> 120202201 -> Aceptado
+>> 0010 -> No Aceptado
+>> 2 -> No Aceptado
+>> 1111122 -> No Aceptado
+>> 212210011 -> Aceptado
+>> 20202 -> No Aceptado
+>> 02 -> No Aceptado
+>> 2000022 -> No Aceptado
+>> 12102021 -> Aceptado
+>> 011 -> Aceptado
+>> 0 -> No Aceptado
+>> 22010 -> No Aceptado
+>> 0222121202 -> No Aceptado
+>> 0111212 -> No Aceptado
+>> 10211 -> Aceptado
+>> 2121 -> Aceptado
+>> 12222 -> No Aceptado
+>> 1021000001 -> Aceptado
+>> 111200221 -> Aceptado
+>> 122 -> No Aceptado
+>> 200 -> No Aceptado
+>> 2200120221 -> Aceptado
+>> 21 -> Aceptado
+>> 1 -> Aceptado
+>> 002 -> No Aceptado
+>> 0 -> No Aceptado
+>> 002001110 -> No Aceptado
+>> 012221 -> Aceptado
+>> 020011 -> Aceptado
+>> 0210110 -> No Aceptado
+>> 2002121 -> Aceptado
+>> 1202 -> No Aceptado
+>> 010122 -> No Aceptado
+>> 1112 -> No Aceptado
+>> 22220022 -> No Aceptado
+>> 1 -> Aceptado
+>> 022 -> No Aceptado
+>> 01221211 -> Aceptado
+>> 222 -> No Aceptado
+>> 20 -> No Aceptado
+>> 11 -> Aceptado
+>> 222020 -> No Aceptado
+>> 0112122202 -> No Aceptado
+>> 202222000 -> No Aceptado
+>> 011 -> Aceptado
+>> 212 -> No Aceptado
+>> 002 -> No Aceptado
+>> 020212 -> No Aceptado
+>> 1102 -> No Aceptado
+>> 0221 -> Aceptado
+>> 0210010200 -> No Aceptado
+>> 210201011 -> Aceptado
+>> 1 -> Aceptado
+>> 12212012 -> No Aceptado
+>> 0212101121 -> Aceptado
+>> 0011102 -> No Aceptado
+>> 00220221 -> Aceptado
+>> 2001202212 -> No Aceptado
+>> 220121 -> Aceptado
+>> 21002221 -> Aceptado
+>> 210021000 -> No Aceptado
+>> 0200212 -> No Aceptado
+>> 210111221 -> Aceptado
+>> 01120 -> No Aceptado
+>> 1 -> Aceptado
+>> 022 -> No Aceptado
+>> 120 -> No Aceptado
+>> 12112011 -> Aceptado
+>> 01211221 -> Aceptado
+>> 10020 -> No Aceptado
+>> 020 -> No Aceptado
+>> 00100 -> No Aceptado
+>> 21 -> Aceptado
+>> 120021 -> Aceptado
+>> 001 -> Aceptado
+>> 0 -> No Aceptado
+>> 20210101 -> Aceptado
+>> 022201122 -> No Aceptado
+>> 102121 -> Aceptado
+>> 22222 -> No Aceptado
+>> 22000 -> No Aceptado
+>> 002101200 -> No Aceptado
+>> 11102 -> No Aceptado
+>> 2000122 -> No Aceptado
+>> 21020 -> No Aceptado
+>> 201120002 -> No Aceptado
+>> 20 -> No Aceptado
+>> 22122222 -> No Aceptado
+>> 202211020 -> No Aceptado
+>> 11012112 -> No Aceptado
+>> 2122 -> No Aceptado
+>> 020101 -> Aceptado
+>> 0002121 -> Aceptado
+>> 2122111 -> Aceptado
+>> 121021122 -> No Aceptado
+>> 101000020 -> No Aceptado
+>> 22 -> No Aceptado
+>> 21 -> Aceptado
+>> 20012 -> No Aceptado
+>> 120210002 -> No Aceptado
+>> 020201022 -> No Aceptado
+>> 120 -> No Aceptado
+>> 110 -> No Aceptado
+>> 12022 -> No Aceptado
+>> 220 -> No Aceptado
+>> 202121 -> Aceptado
+>> 20 -> No Aceptado
+>> 111 -> Aceptado
+>> 2210122 -> No Aceptado
+>> 2 -> No Aceptado
+>> 21211122 -> No Aceptado
+>> 20211212 -> No Aceptado
+>> 2112121 -> Aceptado
+>> 120 -> No Aceptado
+>> 122112 -> No Aceptado
+>> 11 -> Aceptado
+>> 102212212 -> No Aceptado
+>> 121112100 -> No Aceptado
+>> 0122 -> No Aceptado
+>> 010 -> No Aceptado
+>> 0011221110 -> No Aceptado
+>> 2110121 -> Aceptado
+>> 2120222100 -> No Aceptado
+>> 021122011 -> Aceptado
+>> 010102121 -> Aceptado
+>> 21010 -> No Aceptado
+>> 10 -> No Aceptado
+>> 000122 -> No Aceptado
+>> 0011201202 -> No Aceptado
+>> 012202002 -> No Aceptado
+>> 0110220222 -> No Aceptado
+>> 002121020 -> No Aceptado
+>> 0222112 -> No Aceptado
+>> 1222020 -> No Aceptado
+>> 0 -> No Aceptado
+>> 2102002110 -> No Aceptado
+>> 0001 -> Aceptado
+>> 200110122 -> No Aceptado
+>> 20 -> No Aceptado
+>> 22 -> No Aceptado
+>> 1 -> Aceptado
+>> 2220120110 -> No Aceptado
+>> 0112111 -> Aceptado
+>> 2 -> No Aceptado
+>> 200112020 -> No Aceptado
+>> 0 -> No Aceptado
+>> 11102201 -> Aceptado
+>> 02 -> No Aceptado
+>> 2201 -> Aceptado
+>> 20 -> No Aceptado
+>> 20 -> No Aceptado
+>> 2111 -> Aceptado
+>> 0 -> No Aceptado
+>> 2121022 -> No Aceptado
+>> 0202 -> No Aceptado
+>> 0200 -> No Aceptado
+>> 0 -> No Aceptado
+>> 1120221 -> Aceptado
+>> 0020102222 -> No Aceptado
+>> 0110001211 -> Aceptado
+>> 1222020 -> No Aceptado
+>> 12022 -> No Aceptado
+>> 20001120 -> No Aceptado
+>> 02021112 -> No Aceptado
+>> 1002 -> No Aceptado
+>> 011 -> Aceptado
+>> 111010 -> No Aceptado
+>> 010200 -> No Aceptado
+>> 001112 -> No Aceptado
+>> 0122 -> No Aceptado
+>> 2022 -> No Aceptado
+>> 0202010201 -> Aceptado
+>> 2 -> No Aceptado
+>> 0200210 -> No Aceptado
+>> 2102021 -> Aceptado
+>> 2 -> No Aceptado
+>> 0201211021 -> Aceptado
+>> 2220100 -> No Aceptado
+>> 1122 -> No Aceptado
+>> 202021110 -> No Aceptado
+>> 1101101011 -> Aceptado
+>> 110220222 -> No Aceptado
+>> 1021001120 -> No Aceptado
+>> 2201 -> Aceptado
+>> 100 -> No Aceptado
+>> 11021012 -> No Aceptado
+>> 02111 -> Aceptado
+>> 20111022 -> No Aceptado
+>> 111221 -> Aceptado
+>> 010120200 -> No Aceptado
+>> 122 -> No Aceptado
+>> 2 -> No Aceptado
+>> 000120 -> No Aceptado
+>> 122 -> No Aceptado
+>> 0112020001 -> Aceptado
+>> 0022121 -> Aceptado
+>> 0 -> No Aceptado
+>> 02 -> No Aceptado
+>> 2 -> No Aceptado
+>> 1 -> Aceptado
+>> 1201100202 -> No Aceptado
+>> 1020110102 -> No Aceptado
+>> 01 -> Aceptado
+>> 010002 -> No Aceptado
+>> 21011 -> Aceptado
+>> 122000 -> No Aceptado
+>> 22 -> No Aceptado
+>> 1121120002 -> No Aceptado
+>> 1001122 -> No Aceptado
+>> 20 -> No Aceptado
+>> 1021201012 -> No Aceptado
+>> 0120121 -> Aceptado
+>> 0000120210 -> No Aceptado
+>> 22120 -> No Aceptado
+>> 1201112221 -> Aceptado
+>> 21111 -> Aceptado
+>> 2001 -> Aceptado
+>> 1012211102 -> No Aceptado
+>> 0122112 -> No Aceptado
+>> 20122 -> No Aceptado
+>> 122 -> No Aceptado
+>> 21112 -> No Aceptado
+>> 0222 -> No Aceptado
+>> 201011212 -> No Aceptado
+>> 012012 -> No Aceptado
+>> 102 -> No Aceptado
+>> 201011000 -> No Aceptado
+>> 1 -> Aceptado
+>> 0212022201 -> Aceptado
+>> 1012 -> No Aceptado
+>> 1101110 -> No Aceptado
+>> 1110122001 -> Aceptado
+>> 1211112111 -> Aceptado
+>> 1222102 -> No Aceptado
+>> 22011200 -> No Aceptado
+>> 20212011 -> Aceptado
+>> 2020 -> No Aceptado
+>> 02 -> No Aceptado
+>> 010 -> No Aceptado
+>> 01022222 -> No Aceptado
+>> 1011210200 -> No Aceptado
+>> 2102112 -> No Aceptado
+>> 10001 -> Aceptado
+>> 221 -> Aceptado
+>> 121222 -> No Aceptado
+>> 20 -> No Aceptado
+>> 01210 -> No Aceptado
+>> 0101220 -> No Aceptado
+>> 20 -> No Aceptado
+>> 0221210211 -> Aceptado
+>> 2002111211 -> Aceptado
+>> 01 -> Aceptado
+>> 2202020112 -> No Aceptado
+>> 20 -> No Aceptado
+>> 2221002022 -> No Aceptado
+>> 01020200 -> No Aceptado
+>> 0200222022 -> No Aceptado
+>> 0112 -> No Aceptado
+>> 0 -> No Aceptado
+>> 210001110 -> No Aceptado
+>> 22211002 -> No Aceptado
+>> 2 -> No Aceptado
+>> 110202002 -> No Aceptado
+>> 210 -> No Aceptado
+>> 2 -> No Aceptado
+>> 1002210122 -> No Aceptado
+>> 021120 -> No Aceptado
+>> 0000 -> No Aceptado
+>> 201021 -> Aceptado
+>> 102120012 -> No Aceptado
+>> 021110222 -> No Aceptado
+>> 1002010111 -> Aceptado
+>> 2002010112 -> No Aceptado
+>> 010111122 -> No Aceptado
+>> 1211120 -> No Aceptado
+>> 0101211010 -> No Aceptado
+>> 12 -> No Aceptado
+>> 0210 -> No Aceptado
+>> 0011010021 -> Aceptado
+>> 12200121 -> Aceptado
+>> 221201 -> Aceptado
+>> 12 -> No Aceptado
+>> 221200 -> No Aceptado
+>> 110100221 -> Aceptado
+>> 2201222 -> No Aceptado
+>> 02211121 -> Aceptado
+>> 2 -> No Aceptado
+>> 220 -> No Aceptado
+>> 1 -> Aceptado
+>> 0000 -> No Aceptado
+>> 11100122 -> No Aceptado
+>> 1211112 -> No Aceptado
+>> 120 -> No Aceptado
+>> 02000 -> No Aceptado
+>> 10021212 -> No Aceptado
+>> 1 -> Aceptado
+>> 1221 -> Aceptado
+>> 10111012 -> No Aceptado
+>> 11 -> Aceptado
+>> 0122110 -> No Aceptado
+>> 2111022 -> No Aceptado
+>> 122200001 -> Aceptado
+>> 22221102 -> No Aceptado
+>> 00 -> No Aceptado
+>> 001022100 -> No Aceptado
+>> 022202102 -> No Aceptado
+>> 211002 -> No Aceptado
+>> 11110 -> No Aceptado
+>> 22 -> No Aceptado
+>> 011 -> Aceptado
+>> 1012 -> No Aceptado
+>> 10 -> No Aceptado
+>> 20022122 -> No Aceptado
+>> 11011200 -> No Aceptado
+>> 121121 -> Aceptado
+>> 00020110 -> No Aceptado
+>> 21121 -> Aceptado
+>> 2111 -> Aceptado
+>> 1211120 -> No Aceptado
+>> 100122 -> No Aceptado
+>> 2011000100 -> No Aceptado
+>> 22110020 -> No Aceptado
+>> 100112 -> No Aceptado
+>> 12220 -> No Aceptado
+>> 201202000 -> No Aceptado
+>> 202002122 -> No Aceptado
+>> 0101012 -> No Aceptado
+>> 01202012 -> No Aceptado
+>> 022221 -> Aceptado
+>> 11 -> Aceptado
+>> 0221100111 -> Aceptado
+>> 022 -> No Aceptado
+>> 21 -> Aceptado
+>> 0 -> No Aceptado
+>> 100 -> No Aceptado
+>> 211110 -> No Aceptado
+>> 2110012221 -> Aceptado
+>> 10222 -> No Aceptado
+>> 100120121 -> Aceptado
+>> 0210 -> No Aceptado
+>> 011102 -> No Aceptado
+>> 1121122 -> No Aceptado
+>> 201010202 -> No Aceptado
+>> 2112 -> No Aceptado
+>> 2211 -> Aceptado
+>> 022211021 -> Aceptado
+>> 1011211211 -> Aceptado
+>> 0 -> No Aceptado
+>> 0 -> No Aceptado
+>> 21102220 -> No Aceptado
+>> 2001212002 -> No Aceptado
+>> 0022102120 -> No Aceptado
+>> 02022 -> No Aceptado
+>> 11111202 -> No Aceptado
+>> 00221021 -> Aceptado
+>> 110020000 -> No Aceptado
+>> 2 -> No Aceptado
+>> 2111101 -> Aceptado
+>> 10 -> No Aceptado
+>> 22012210 -> No Aceptado
+>> 02221121 -> Aceptado
+>> 1202222 -> No Aceptado
+>> 202012 -> No Aceptado
+>> 01202 -> No Aceptado
+>> 21 -> Aceptado
+>> 1111221020 -> No Aceptado
+>> 0 -> No Aceptado
+>> 121120122 -> No Aceptado
+>> 221111 -> Aceptado
+>> 211111101 -> Aceptado
+>> 100021222 -> No Aceptado
+>> 102111 -> Aceptado
+>> 10 -> No Aceptado
+>> 0002110 -> No Aceptado
+>> 1202220 -> No Aceptado
+>> 02021 -> Aceptado
+>> 22200 -> No Aceptado
+>> 20110222 -> No Aceptado
+>> 2200010 -> No Aceptado
+>> 02 -> No Aceptado
+>> 010 -> No Aceptado
+>> 211 -> Aceptado
+>> 101 -> Aceptado
+>> 11022122 -> No Aceptado
+>> 2122002011 -> Aceptado
+>> 1000210 -> No Aceptado
+>> 2021000 -> No Aceptado
+>> 100 -> No Aceptado
+>> 00110110 -> No Aceptado
+>> 01 -> Aceptado
+>> 12 -> No Aceptado
+>> 011112011 -> Aceptado
+>> 211101 -> Aceptado
+>> 000102 -> No Aceptado
+>> 21201 -> Aceptado
+>> 2122 -> No Aceptado
+>> 0202112210 -> No Aceptado
+>> 2212111 -> Aceptado
+>> 21210 -> No Aceptado
+>> 1 -> Aceptado
+>> 1211112120 -> No Aceptado
+>> 02 -> No Aceptado
+>> 001 -> Aceptado
+>> 2202 -> No Aceptado
+>> 201 -> Aceptado
+>> 1 -> Aceptado
+>> 220201011 -> Aceptado
+>> 2200001 -> Aceptado
+>> 0120 -> No Aceptado
+>> 002201100 -> No Aceptado
+>> 02 -> No Aceptado
+>> 20122 -> No Aceptado
+>> 2102 -> No Aceptado
+>> 2101202 -> No Aceptado
+>> 020110 -> No Aceptado
+>> 2112121020 -> No Aceptado
+>> 212 -> No Aceptado
+>> 110 -> No Aceptado
+>> 002121 -> Aceptado
+>> 210001 -> Aceptado
+>> 21112201 -> Aceptado
+>> 0020 -> No Aceptado
+>> 2000 -> No Aceptado
+>> 20000 -> No Aceptado
+>> 102 -> No Aceptado
+>> 10 -> No Aceptado
+>> 22022212 -> No Aceptado
+>> 221021222 -> No Aceptado
+>> 2212 -> No Aceptado
+>> 01 -> Aceptado
+>> 00 -> No Aceptado
+>> 220 -> No Aceptado
+>> 01201202 -> No Aceptado
+>> 0210122202 -> No Aceptado
+>> 20 -> No Aceptado
+>> 1 -> Aceptado
+>> 112111121 -> Aceptado
+>> 21 -> Aceptado
+>> 2222212 -> No Aceptado
+>> 0122201 -> Aceptado
+>> 2021111 -> Aceptado
+>> 0122102212 -> No Aceptado
+>> 212022200 -> No Aceptado
+>> 011220112 -> No Aceptado
+>> 20 -> No Aceptado
+>> 1111 -> Aceptado
+>> 0000211001 -> Aceptado
+>> 21100112 -> No Aceptado
+>> 10111 -> Aceptado
+>> 1 -> Aceptado
+>> 2211101100 -> No Aceptado
+>> 0122 -> No Aceptado
+>> 12 -> No Aceptado
+>> 1011002 -> No Aceptado
+>> 110 -> No Aceptado
+>> 01011 -> Aceptado
+>> 01 -> Aceptado
+>> 021 -> Aceptado
+>> 2200100021 -> Aceptado
+>> 11200202 -> No Aceptado
+>> 2120122 -> No Aceptado
+>> 2 -> No Aceptado
+>> 1020102 -> No Aceptado
+>> 210121222 -> No Aceptado
+>> 121120021 -> Aceptado
+>> 11201 -> Aceptado
+>> 2210 -> No Aceptado
+>> 2202 -> No Aceptado
+>> 10 -> No Aceptado
+>> 1011110012 -> No Aceptado
+>> 0 -> No Aceptado
+>> 112010202 -> No Aceptado
+>> 10 -> No Aceptado
+>> 10 -> No Aceptado
+>> 2002 -> No Aceptado
+>> 100 -> No Aceptado
+>> 220112 -> No Aceptado
+>> 201 -> Aceptado
+>> 2 -> No Aceptado
+>> 101222220 -> No Aceptado
+>> 111 -> Aceptado
+>> 0220 -> No Aceptado
+>> 0002222 -> No Aceptado
+>> 02 -> No Aceptado
+>> 012020001 -> Aceptado
+>> 0121201201 -> Aceptado
+>> 010222112 -> No Aceptado
+>> 1112 -> No Aceptado
+>> 222 -> No Aceptado
+>> 111020122 -> No Aceptado
+>> 0 -> No Aceptado
+>> 21001 -> Aceptado
+>> 1 -> Aceptado
+>> 0 -> No Aceptado
+>> 101002122 -> No Aceptado
+>> 000121 -> Aceptado
+>> 0200020 -> No Aceptado
+>> 000 -> No Aceptado
+>> 201222102 -> No Aceptado
+>> 2 -> No Aceptado
+>> 011111001 -> Aceptado
+>> 122 -> No Aceptado
+>> 002022 -> No Aceptado
+>> 200122 -> No Aceptado
+>> 210020201 -> Aceptado
+>> 100001112 -> No Aceptado
+>> 1 -> Aceptado
+>> 0112100121 -> Aceptado
+>> 0 -> No Aceptado
+>> 1 -> Aceptado
+>> 02011 -> Aceptado
+>> 0211101201 -> Aceptado
+>> 0102200 -> No Aceptado
+>> 11212011 -> Aceptado
+>> 0 -> No Aceptado
+>> 0212 -> No Aceptado
+>> 0211210 -> No Aceptado
+>> 0022 -> No Aceptado
+>> 1 -> Aceptado
+>> 2101 -> Aceptado
+>> 20 -> No Aceptado
+>> 20200 -> No Aceptado
+>> 2100 -> No Aceptado
+>> 020201 -> Aceptado
+>> 0100 -> No Aceptado
+>> 012222 -> No Aceptado
+>> 012222 -> No Aceptado
+>> 12122111 -> Aceptado
+>> 222 -> No Aceptado
+>> 20112201 -> Aceptado
+>> 02222102 -> No Aceptado
+>> 102 -> No Aceptado
+>> 020212100 -> No Aceptado
+>> 21020 -> No Aceptado
+>> 0222000211 -> Aceptado
+>> 1221 -> Aceptado
+>> 1020 -> No Aceptado
+>> 011210 -> No Aceptado
+>> 2122200 -> No Aceptado
+>> 110201 -> Aceptado
+>> 211 -> Aceptado
+>> 2102011212 -> No Aceptado
+>> 202022111 -> Aceptado
+>> 00101222 -> No Aceptado
+>> 20210 -> No Aceptado
+>> 2210 -> No Aceptado
+>> 01122 -> No Aceptado
+>> 22 -> No Aceptado
+>> 21002 -> No Aceptado
+>> 222202 -> No Aceptado
+>> 02221101 -> Aceptado
+>> 22101 -> Aceptado
+>> 20 -> No Aceptado
+>> 2001220001 -> Aceptado
+>> 2011211001 -> Aceptado
+>> 2 -> No Aceptado
+>> 20102 -> No Aceptado
+>> 2201 -> Aceptado
+>> 02210102 -> No Aceptado
+>> 02120212 -> No Aceptado
+>> 00112 -> No Aceptado
+>> 1102011122 -> No Aceptado
+>> 20110012 -> No Aceptado
+>> 202022002 -> No Aceptado
+>> 010 -> No Aceptado
+>> 1000212002 -> No Aceptado
+>> 022210 -> No Aceptado
+>> 210011002 -> No Aceptado
+>> 102 -> No Aceptado
+>> 2221 -> Aceptado
+>> 1 -> Aceptado
+>> 010020 -> No Aceptado
+>> 210 -> No Aceptado
+>> 2121 -> Aceptado
+>> 212000212 -> No Aceptado
+>> 20002 -> No Aceptado
+>> 10002212 -> No Aceptado
+>> 202022 -> No Aceptado
+>> 212220112 -> No Aceptado
+>> 0002111200 -> No Aceptado
+>> 2000210 -> No Aceptado
+>> 1 -> Aceptado
+>> 2101210 -> No Aceptado
+>> 01211111 -> Aceptado
+>> 022122111 -> Aceptado
+>> 10112020 -> No Aceptado
+>> 2001102 -> No Aceptado
+>> 110212201 -> Aceptado
+>> 22202112 -> No Aceptado
+>> 100012011 -> Aceptado
+>> 0210012101 -> Aceptado
+>> 112022010 -> No Aceptado
+>> 2211020 -> No Aceptado
+>> 12020110 -> No Aceptado
+>> 022 -> No Aceptado
+>> 2122 -> No Aceptado
+>> 21000 -> No Aceptado
+>> 102122 -> No Aceptado
+>> 0 -> No Aceptado
+>> 10001 -> Aceptado
+>> 111010022 -> No Aceptado
+>> 2 -> No Aceptado
+>> 2011 -> Aceptado
+>> 001001 -> Aceptado
+>> 212 -> No Aceptado
+>> 222202102 -> No Aceptado
+>> 11111100 -> No Aceptado
+>> 010121100 -> No Aceptado
+>> 1110022 -> No Aceptado
+>> 0012120021 -> Aceptado
+>> 2010102 -> No Aceptado
+>> 1201121011 -> Aceptado
+>> 0121211102 -> No Aceptado
+>> 2212 -> No Aceptado
+>> 2210201 -> Aceptado
+>> 100100122 -> No Aceptado
+>> 01100 -> No Aceptado
+>> 1111100222 -> No Aceptado
+>> 1211111 -> Aceptado
+>> 2011202102 -> No Aceptado
+>> 2200012011 -> Aceptado
+>> 222102 -> No Aceptado
+>> 2011102 -> No Aceptado
+>> 0110001102 -> No Aceptado
+>> 110102 -> No Aceptado
+>> 220220 -> No Aceptado
+>> 001012212 -> No Aceptado
+>> 0020 -> No Aceptado
+>> 2221 -> Aceptado
+>> 2110221 -> Aceptado
+>> 0002111221 -> Aceptado
+>> 1 -> Aceptado
+>> 100 -> No Aceptado
+>> 00 -> No Aceptado
+>> 00112 -> No Aceptado
+>> 2022 -> No Aceptado
+>> 2011 -> Aceptado
+>> 210112 -> No Aceptado
+>> 201211 -> Aceptado
+>> 122110 -> No Aceptado
+>> 20 -> No Aceptado
+>> 1012112012 -> No Aceptado
+>> 101002211 -> Aceptado
+>> 2200220 -> No Aceptado
+>> 2221210011 -> Aceptado
+>> 1220211 -> Aceptado
+>> 121 -> Aceptado
+>> 12 -> No Aceptado
+>> 000 -> No Aceptado
+>> 2100 -> No Aceptado
+>> 120100 -> No Aceptado
+>> 21 -> Aceptado
+>> 2111 -> Aceptado
+>> 020011002 -> No Aceptado
+>> 0 -> No Aceptado
+>> 102012 -> No Aceptado
+>> 000 -> No Aceptado
+>> 1002011 -> Aceptado
+>> 021111120 -> No Aceptado
+>> 112 -> No Aceptado
+>> 02120120 -> No Aceptado
+>> 0201020 -> No Aceptado
+>> 2112022 -> No Aceptado
+>> 12111 -> Aceptado
+>> 1 -> Aceptado
+>> 2201202200 -> No Aceptado
+>> 111 -> Aceptado
+>> 2211102021 -> Aceptado
+>> 11120210 -> No Aceptado
+>> 201 -> Aceptado
+>> 2022102212 -> No Aceptado
+>> 222110111 -> Aceptado
+>> 20002 -> No Aceptado
+>> 20220 -> No Aceptado
+>> 101 -> Aceptado
+>> 021210002 -> No Aceptado
+>> 0200 -> No Aceptado
+>> 22201 -> Aceptado
+>> 01021122 -> No Aceptado
+>> 20011 -> Aceptado
+>> 0110220 -> No Aceptado
+>> 200 -> No Aceptado
+>> 210220 -> No Aceptado
+>> 20 -> No Aceptado
+>> 10 -> No Aceptado
+>> 0112 -> No Aceptado
+>> 2 -> No Aceptado
+>> 0011202 -> No Aceptado
+>> 0001 -> Aceptado
+>> 202020 -> No Aceptado
+>> 00 -> No Aceptado
+>> 1 -> Aceptado
+>> 010211 -> Aceptado
+>> 21100200 -> No Aceptado
+>> 100001112 -> No Aceptado
+>> 1 -> Aceptado
+>> 01 -> Aceptado
+>> 010212202 -> No Aceptado
+>> 001022 -> No Aceptado
+>> 0002120010 -> No Aceptado
+>> 21002222 -> No Aceptado
+>> 0 -> No Aceptado
+>> 021120 -> No Aceptado
+>> 11 -> Aceptado
+>> 1010010222 -> No Aceptado
+>> 00111 -> Aceptado
+>> 0102111011 -> Aceptado
+>> 101 -> Aceptado
+>> 2121 -> Aceptado
+>> 0011201 -> Aceptado
+>> 12102 -> No Aceptado
+>> 21 -> Aceptado
+>> 021212012 -> No Aceptado
+>> 20 -> No Aceptado
+>> 2210 -> No Aceptado
+>> 021 -> Aceptado
+>> 00 -> No Aceptado
+>> 021001 -> Aceptado
+>> 101 -> Aceptado
+>> 12100 -> No Aceptado
+>> 02 -> No Aceptado
+>> 12 -> No Aceptado
+>> 21112 -> No Aceptado
+>> 2210022122 -> No Aceptado
+>> 10120220 -> No Aceptado
+>> 0022 -> No Aceptado
+>> 2 -> No Aceptado
+>> 21020010 -> No Aceptado
+>> 1200 -> No Aceptado
+>> 2122121122 -> No Aceptado
+>> 21212 -> No Aceptado
+>> 1 -> Aceptado
+>> 022112 -> No Aceptado
+>> 0000 -> No Aceptado
+>> 202001101 -> Aceptado
+>> 102221200 -> No Aceptado
+>> 0000 -> No Aceptado
+>> 22101002 -> No Aceptado
+>> 011222 -> No Aceptado
+>> 2 -> No Aceptado
+>> 2010201221 -> Aceptado
+>> 1201 -> Aceptado
+>> 122111110 -> No Aceptado
+>> 0110 -> No Aceptado
+>> 22212 -> No Aceptado
+>> 2200010002 -> No Aceptado
+>> 220220 -> No Aceptado
+>> 20111 -> Aceptado
+>> 21122 -> No Aceptado
+>> 0101 -> Aceptado
+>> 212122 -> No Aceptado
+>> 1222121 -> Aceptado
+>> 211220100 -> No Aceptado
+>> 112 -> No Aceptado
+>> 02001 -> Aceptado
+>> 2211 -> Aceptado
+>> 122110 -> No Aceptado
+>> 00 -> No Aceptado
+>> 20010 -> No Aceptado
+>> 21 -> Aceptado
+>> 1 -> Aceptado
+>> 22000021 -> Aceptado
+>> 2211010011 -> Aceptado
+>> 022222212 -> No Aceptado
+>> 2220022 -> No Aceptado
+>> 02 -> No Aceptado
+>> 1021101212 -> No Aceptado
+>> 0222021 -> Aceptado
+>> 2222 -> No Aceptado
+>> 012122 -> No Aceptado
+>> 1 -> Aceptado
+>> 21 -> Aceptado
+>> 102222 -> No Aceptado
+>> 01202000 -> No Aceptado
+>> 111 -> Aceptado
+>> 01211 -> Aceptado
+>> 102202 -> No Aceptado
+>> 2 -> No Aceptado
+>> 100 -> No Aceptado
+>> 120221001 -> Aceptado
+>> 0212111 -> Aceptado
+>> 221221 -> Aceptado
+>> 221 -> Aceptado
+>> 22212 -> No Aceptado
+>> 1002200102 -> No Aceptado
+>> 1110211 -> Aceptado
+>> 02110102 -> No Aceptado
+>> 2000 -> No Aceptado
+>> 1211112000 -> No Aceptado
+>> 1121102011 -> Aceptado
+>> 0211100202 -> No Aceptado
+>> 22201 -> Aceptado
+>> 0020021020 -> No Aceptado
+>> 0022012112 -> No Aceptado
+>> 10 -> No Aceptado
+>> 11121010 -> No Aceptado
+>> 0201 -> Aceptado
+>> 0120210010 -> No Aceptado
+>> 20212 -> No Aceptado
+>> 2 -> No Aceptado
+>> 200010 -> No Aceptado
+>> 20000002 -> No Aceptado
+>> 0 -> No Aceptado
+>> 202 -> No Aceptado
+>> 0100001 -> Aceptado
+>> 2210102120 -> No Aceptado
+>> 102012 -> No Aceptado
+>> 0021121 -> Aceptado
+>> 01022121 -> Aceptado
+>> 2102011 -> Aceptado
+>> 001 -> Aceptado
+>> 11002111 -> Aceptado
+>> 20 -> No Aceptado
+>> 200000012 -> No Aceptado
+>> 2020000020 -> No Aceptado
+>> 2010121 -> Aceptado
+>> 210 -> No Aceptado
+>> 20200 -> No Aceptado
+>> 21222 -> No Aceptado
+>> 2122 -> No Aceptado
+>> 1021 -> Aceptado
+>> 10112100 -> No Aceptado
+>> 1 -> Aceptado
+>> 2002122111 -> Aceptado
+>> 102 -> No Aceptado
+>> 21210022 -> No Aceptado
+>> 0 -> No Aceptado
+>> 2 -> No Aceptado
+>> 202222001 -> Aceptado
+>> 10 -> No Aceptado
+>> 01020 -> No Aceptado
+>> 1 -> Aceptado
+>> 0 -> No Aceptado
+>> 001122021 -> Aceptado
+>> 212212 -> No Aceptado
+>> 01222000 -> No Aceptado
+>> 0 -> No Aceptado
+>> 2 -> No Aceptado
+>> 2010110 -> No Aceptado
+>> 2200221012 -> No Aceptado
+>> 21 -> Aceptado
+>> 21120 -> No Aceptado
+>> 1 -> Aceptado
+>> 22210211 -> Aceptado
+>> 20 -> No Aceptado
+>> 1012 -> No Aceptado
+>> 2022222212 -> No Aceptado
+>> 12202 -> No Aceptado
+>> 2 -> No Aceptado
+>> 210 -> No Aceptado
+>> 2200002 -> No Aceptado
+>> 111120020 -> No Aceptado
+>> 22110 -> No Aceptado
+>> 21100 -> No Aceptado
+>> 21 -> Aceptado
+>> 201202 -> No Aceptado
+>> 11 -> Aceptado
+>> 1000020 -> No Aceptado
+>> 1 -> Aceptado
+>> 0020010 -> No Aceptado
+>> 100 -> No Aceptado
+>> 1122221110 -> No Aceptado
+>> 11110 -> No Aceptado
+>> 011 -> Aceptado
+>> 2022011 -> Aceptado
+>> 00022112 -> No Aceptado
+>> 2001 -> Aceptado
+>> 102011001 -> Aceptado
+>> 111 -> Aceptado
+>> 1110112111 -> Aceptado
+>> 112 -> No Aceptado
+>> 0 -> No Aceptado
+>> 220211 -> Aceptado
+>> 1 -> Aceptado
+>> 2 -> No Aceptado
+>> 022 -> No Aceptado
+>> 10 -> No Aceptado
+>> 102 -> No Aceptado
+>> 2210211212 -> No Aceptado
+>> 2 -> No Aceptado
+>> 2220102 -> No Aceptado
+>> 2220212002 -> No Aceptado
+>> 210111 -> Aceptado
+>> 210011 -> Aceptado
+>> 001122 -> No Aceptado
+>> 2022112200 -> No Aceptado
+>> 01022 -> No Aceptado
+>> 22122002 -> No Aceptado
+>> 0000110 -> No Aceptado
+>> 0120220 -> No Aceptado
+>> 212211212 -> No Aceptado
+>> 1022 -> No Aceptado
+>> 010101 -> Aceptado
+>> 22112 -> No Aceptado
+>> 121012001 -> Aceptado
+>> 120 -> No Aceptado
+>> 200200 -> No Aceptado
+>> 0211022 -> No Aceptado
+>> 1111012200 -> No Aceptado
+>> 1102221 -> Aceptado
+>> 1221101201 -> Aceptado
+>> 20022 -> No Aceptado
+>> 1001100 -> No Aceptado
+>> 001 -> Aceptado
+>> 1112000 -> No Aceptado
+>> 1112222111 -> Aceptado
+>> 200 -> No Aceptado
+>> 1 -> Aceptado
+>> 2 -> No Aceptado
+>> 11 -> Aceptado
+>> 21 -> Aceptado
+>> 1001201 -> Aceptado
+>> 200020110 -> No Aceptado
+>> 2221 -> Aceptado
+>> 01000120 -> No Aceptado
+>> 22022210 -> No Aceptado
+>> 2020200 -> No Aceptado
+>> 22110220 -> No Aceptado
+>> 0101122012 -> No Aceptado
+>> 2210020111 -> Aceptado
+>> 112101211 -> Aceptado
+>> 220222110 -> No Aceptado
+>> 02200220 -> No Aceptado
+>> 2 -> No Aceptado
+>> 122022 -> No Aceptado
+>> 1002110 -> No Aceptado
+>> 2 -> No Aceptado
+>> 02222 -> No Aceptado
+>> 0221 -> Aceptado
+>> 2 -> No Aceptado
+>> 010 -> No Aceptado
+>> 01 -> Aceptado
+>> 0 -> No Aceptado
+>> 210122200 -> No Aceptado
+>> 02220001 -> Aceptado
+>> 1022022 -> No Aceptado
+>> 211020121 -> Aceptado
+>> 210001200 -> No Aceptado
+>> 102 -> No Aceptado
+>> 011121000 -> No Aceptado
+>> 01222002 -> No Aceptado
+>> 000222 -> No Aceptado
+>> 02 -> No Aceptado
+>> 111 -> Aceptado
+>> 1 -> Aceptado
+>> 2 -> No Aceptado
+>> 20212202 -> No Aceptado
+>> 110 -> No Aceptado
+>> 2000002201 -> Aceptado
+>> 02210 -> No Aceptado
+>> 2 -> No Aceptado
+>> 20 -> No Aceptado
+>> 0201 -> Aceptado
+>> 011100221 -> Aceptado
+>> 212110101 -> Aceptado
+>> 221121 -> Aceptado
+>> 022 -> No Aceptado
+>> 1200002 -> No Aceptado
+>> 1 -> Aceptado
+>> 2011100 -> No Aceptado
+>> 1201221222 -> No Aceptado
+>> 120 -> No Aceptado
+>> 20202122 -> No Aceptado
+>> 210012 -> No Aceptado
+>> 100100202 -> No Aceptado
+>> 0020221 -> Aceptado
+>> 2222 -> No Aceptado
+>> 0111 -> Aceptado
+>> 22 -> No Aceptado
+>> 2000102121 -> Aceptado
+>> 01 -> Aceptado
+>> 000202100 -> No Aceptado
+>> 0102201 -> Aceptado
+>> 0 -> No Aceptado
+>> 1111 -> Aceptado
+>> 0111022010 -> No Aceptado
+>> 10102001 -> Aceptado
+>> 212010 -> No Aceptado
+>> 00110002 -> No Aceptado
+>> 2 -> No Aceptado
+>> 021001 -> Aceptado
+>> 01221 -> Aceptado
+>> 1 -> Aceptado
+>> 221 -> Aceptado
+>> 1211010 -> No Aceptado
+>> 222202101 -> Aceptado
+>> 0111 -> Aceptado
+>> 001020102 -> No Aceptado
+>> 1202220 -> No Aceptado
+>> 021112222 -> No Aceptado
+>> 220100 -> No Aceptado
+>> 20001 -> Aceptado
+>> 12 -> No Aceptado
+>> 21 -> Aceptado
+>> 0 -> No Aceptado
+>> 122 -> No Aceptado
+>> 1 -> Aceptado
+>> 121010 -> No Aceptado
+>> 21100 -> No Aceptado
+>> 101212 -> No Aceptado
+>> 0 -> No Aceptado
+>> 0220221 -> Aceptado
+>> 112 -> No Aceptado
+>> 221102201 -> Aceptado
+>> 021 -> Aceptado
+>> 01 -> Aceptado
+>> 0220111020 -> No Aceptado
+>> 220 -> No Aceptado
+>> 1012020220 -> No Aceptado
+>> 2120200221 -> Aceptado
+>> 110 -> No Aceptado
+>> 201200121 -> Aceptado
+>> 12100012 -> No Aceptado
+>> 1100012 -> No Aceptado
+>> 0101 -> Aceptado
+>> 1 -> Aceptado
+>> 221121 -> Aceptado
+>> 21011 -> Aceptado
+>> 0 -> No Aceptado
+>> 021012 -> No Aceptado
+>> 10202121 -> Aceptado
+>> 0111022211 -> Aceptado
+>> 211 -> Aceptado
+>> 1221022 -> No Aceptado
+>> 010 -> No Aceptado
+>> 20002012 -> No Aceptado
+>> 102201010 -> No Aceptado
+>> 22122 -> No Aceptado
+>> 011101 -> Aceptado
+>> 210 -> No Aceptado
+>> 2210 -> No Aceptado
+>> 10 -> No Aceptado
+>> 0112 -> No Aceptado
+>> 22102202 -> No Aceptado
+>> 0020112 -> No Aceptado
+>> 1102121121 -> Aceptado
+>> 10000011 -> Aceptado
+>> 0211021 -> Aceptado
+>> 101000222 -> No Aceptado
+>> 121020 -> No Aceptado
+>> 10220 -> No Aceptado
+>> 00100 -> No Aceptado
+>> 2022110 -> No Aceptado
+>> 200202 -> No Aceptado
+>> 00 -> No Aceptado
+>> 22122000 -> No Aceptado
+>> 2120000 -> No Aceptado
+>> 0211110010 -> No Aceptado
+>> 10 -> No Aceptado
+>> 1101 -> Aceptado
+>> 22102110 -> No Aceptado
+>> 200 -> No Aceptado
+>> 01220221 -> Aceptado
+>> 12210 -> No Aceptado
+>> 2220021211 -> Aceptado
+>> 2222112010 -> No Aceptado
+>> 102 -> No Aceptado
+>> 10 -> No Aceptado
+>> 202 -> No Aceptado
